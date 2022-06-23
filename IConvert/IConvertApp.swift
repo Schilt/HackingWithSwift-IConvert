@@ -1,7 +1,7 @@
 //
 //  IConvertApp.swift
 //  IConvert
-//
+//      Converts temperatures between Celsius, Fahrenheit & Kelvin
 //  Created by Andrew A. Schilt on 6/21/22.
 //
 
